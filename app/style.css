@@ -1,0 +1,30 @@
+.d-flex button {
+	margin: 24px 10px;
+	padding: 8px 39px;
+	
+}
+.d-flex table {
+	margin: 16px 160px;
+	
+}
+table .editbtn {
+	color: #00ccff;
+	cursor: pointer;
+	
+}
+.success {
+	background-color: lightgreen;
+    padding: 16px;	
+	
+}
+.error {
+	background-color: tomato;
+    padding: 16px;	
+	
+}
+body {
+  background-image: url('poza4.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
